@@ -1,0 +1,13 @@
+This is my first python project, which obtains URL or html source code file as input from the user.
+It retrieves information like
+1. Page Title
+2. Number of occurences of words given with in paragraph tag i.e <p>
+3. List of E-Mail's in that webpage in any of the following format:
+   -> abc@domain.com
+   -> abc@domain(dot)com
+   -> abc(at)domain(dot)com
+   -> Email in Ascii Format
+   -> Obfuscated Email
+4. List of all links from the webpage, excluding e-mails
+
+For any further information, contact author @ sathy190@gmail.com
